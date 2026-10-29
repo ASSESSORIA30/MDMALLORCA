@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "son-oliva",
+    "name": "Son Oliva",
+    "area": "The countryside collection",
+    "image": "/images/villa.jpg",
+    "description": {
+      "en": "A quieter rhythm. A closer connection to the landscape.",
+      "es": "Un ritmo más pausado. Una conexión más íntima con el paisaje.",
+      "ca": "Un ritme més pausat. Una connexió més íntima amb el paisatge."
+    },
+    "gallery": [
+      {
+        "src": "/images/villa.jpg",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/interior.jpg",
+        "category": "interior"
+      }
+    ]
+  },
+  {
+    "slug": "can-alba",
+    "name": "Can Alba",
+    "area": "The Mediterranean collection",
+    "image": "/images/interior.jpg",
+    "description": {
+      "en": "Light, open spaces and the possibility of a Mediterranean life.",
+      "es": "Luz, espacios abiertos y la posibilidad de una vida mediterránea.",
+      "ca": "Llum, espais oberts i la possibilitat d’una vida mediterrània."
+    },
+    "gallery": [
+      {
+        "src": "/images/villa.jpg",
+        "category": "exterior"
+      },
+      {
+        "src": "/images/interior.jpg",
+        "category": "interior"
+      }
+    ]
+  }
+]
